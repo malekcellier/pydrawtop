@@ -1,0 +1,9 @@
+sphinx
+sphinxcontrib-htmlhelp
+sphinxcontrib-serializinghtml
+sphinxcontrib-mermaid
+pydata-sphinx-theme
+pytest
+pytest-cov
+pytest-benchmark
+pytest-xdist
